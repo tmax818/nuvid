@@ -1,1 +1,3 @@
-# nuvid
+# Nuvid
+
+## HTML, CSS and JavaScript
